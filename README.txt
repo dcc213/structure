@@ -5,7 +5,7 @@ email 1, email 2
 yyyy-mm-dd: 2024-11-07
 --------------------------------------------------------------------------------
 
-This project does...
+This project does some stuff and I'm adding more text here....
 
 The project structure is as follows.
 
